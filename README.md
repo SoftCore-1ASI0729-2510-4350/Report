@@ -4,15 +4,15 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Desarrollo de Aplicaciones Open Source - SV51</strong><br>
+    <strong>Desarrollo de Aplicaciones Open Source - 4350</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME TRABAJO FINAL
 </p>
 
 <center>
 
-#### Startup: **--**
-#### Product: **--**
+#### Startup: **SoftCore**
+#### Product: **CustomHost**
 
 </center>
 
@@ -21,14 +21,14 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-|   |  |
+|Axel Randall Ordoñez Ricaldi   |  U202216827|
 |        |  |
 |       |  |
 |  |  |
 |              |  |
 |          |  |
 
-<br> AGOSTO 2024
+<br> Abril 2025
 </center>  
 
 # Registro de Versiones del Informe
@@ -36,12 +36,12 @@
 
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |  
+| 0.0 | 07/04/2025 |SoftCore |Se crea el documento |  
 
 </center>
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/SoftCore-1ASI0729-2510-4350/Report)
 
 (Imagenes de los commits cada entrega)
 
@@ -171,7 +171,7 @@
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|<p>Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc..</p>|Su texto de conclusion|
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
