@@ -23,7 +23,7 @@
 |----------------------------------|------------|
 |Axel Randall Ordoñez Ricaldi      | U202216827 |
 |Fabrizio Martin Panta Castro      | U20231A810 |
-|       |  |
+|Brayan Roberto Ccarita Cruz       | U20221C218 |
 |  |  |
 |              |  |
 |          |  |
