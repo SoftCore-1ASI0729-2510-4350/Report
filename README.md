@@ -366,8 +366,25 @@ Segmento 2:
 
 ## 3.2. User Stories.
 
-| HU0X | Historia Usuario | "Descripcion"  |
-|-|-|-|
+| HUX  |    Historia de Usuario / Epica    | Descripción  | Criterios de Aceptación | Relacionado con (Epic ID) |
+|------|-----------------------------------|--------------|-------------------------|---------------------------|
+| EP01 |Crear cuenta|Como huésped o personal administrativo, quiero crear una cuenta para acceder a las funcionalidades de la aplicación|                         |                           |
+| HU02 |                                   |              |                         |                           |
+| HU03 |                                   |              |                         |                           |
+| HU04 |                                   |              |                         |                           |
+| HU05 |                                   |              |                         |                           |
+| HU06 |                                   |              |                         |                           |
+| HU07 |                                   |              |                         |                           |
+| HU08 |                                   |              |                         |                           |
+| HU09 |                                   |              |                         |                           |
+| HU10 |                                   |              |                         |                           |
+| HU11 |                                   |              |                         |                           |
+| HU14 |                                   |              |                         |                           |
+| HU16 |                                   |              |                         |                           |
+| HU17 |                                   |              |                         |                           |
+| HU18 |                                   |              |                         |                           |
+| HU19 |                                   |              |                         |                           |
+| HU20 |                                   |              |                         |                           |
 
 ## 3.3. Impact Mapping.
 
