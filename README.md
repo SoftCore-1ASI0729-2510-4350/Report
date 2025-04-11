@@ -368,7 +368,7 @@ Segmento 2:
 
 | HUX  |    Historia de Usuario / Epica    | Descripción  | Criterios de Aceptación | Relacionado con (Epic ID) |
 |------|-----------------------------------|--------------|-------------------------|---------------------------|
-| EP01 |Crear cuenta|Como huésped o personal administrativo, quiero crear una cuenta para acceder a las funcionalidades de la aplicación|                         |                           |
+| EP01 |Crear cuenta|Como huésped o personal administrativo, quiero crear una cuenta para acceder a las funcionalidades de la aplicación|  Escenario 1:<br> Given que el usuario aún no tiene una cuenta, <br> When completa el formulario de registro con sus datos válidos y pulsa el botón "Registrarse",<br>Then debe crearse su cuenta <br> And redirigirse a la pantalla principal de su perfil. <br><br>Escenario 2: <br> Given que el usuario ya está registrado, <br> When ingresa su correo y contraseña correctamente en la pantalla de inicio de sesión, <br> Then debe acceder a la plataforma con su sesión iniciada según su rol (huésped o personal)                       |                           |
 | HU02 |                                   |              |                         |                           |
 | HU03 |                                   |              |                         |                           |
 | HU04 |                                   |              |                         |                           |
