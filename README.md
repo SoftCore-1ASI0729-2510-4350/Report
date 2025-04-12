@@ -577,6 +577,11 @@ Ocupación: _____
 [URL del video about the team](https://www.example.com)
 
 # Bibliografía
+
+MINCETUR. (2024). Arribos, pernoctaciones y oferta hotelera en establecimientos de hospedaje [LINK](https://datosturismo.mincetur.gob.pe/appdatosturismo/content3.html) Recuperado el 6 de enero del 2025
+
+Cántaro Márquez, A. L., Miranda Vásquez, G. F., & Ángeles Barrantes, D. (2023). Analysis of eco-innovations in Peruvian accommodation establishments. Sustainability, 15(8), 6700. [LINK](https://doi.org/10.3390/su15086700)
+
 qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
 Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
