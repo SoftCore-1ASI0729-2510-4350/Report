@@ -191,25 +191,97 @@ Con un enfoque inicial en el mercado hotelero de Lima, SoftCore aspira a convert
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+La industria hotelera ha experimentado una notable evolución tecnológica, donde la implementación de soluciones digitales se ha vuelto crucial para mejorar tanto la eficiencia operativa como la experiencia del cliente. Inicialmente, los sistemas eran manuales, progresando hacia los Sistemas de Gestión de Propiedades (PMS) y, más tarde, a soluciones en la nube. Hoy en día, la inteligencia artificial (IA) está transformando el sector, optimizando procesos y personalizando la interacción con los huéspedes. Sin embargo, la adopción de estas tecnologías, especialmente en lugares como Lima, enfrenta desafíos relacionados con la inversión y la infraestructura (Analysis of Eco-Innovations in Peruvian Accommodation Establishments, 2023).
+
+La personalización se ha convertido en una expectativa fundamental para los viajeros, quienes buscan experiencias adaptadas a sus preferencias. El Internet de las Cosas (IoT) juega un papel esencial al permitir la adaptación de las habitaciones a las necesidades individuales y al agilizar procesos como el check-in y el servicio en la habitación. A pesar de los beneficios, la implementación de IoT presenta retos como los costos iniciales y las preocupaciones de seguridad (Analysis of Eco-Innovations in Peruvian Accommodation Establishments, 2023).
+
+La pandemia de COVID-19 generó una drástica caída en el turismo peruano, evidenciada en el desplome de las llegadas de huéspedes tanto nacionales como extranjeros en el año 2020. Los datos del MINCETUR muestran que los arribos de turistas nacionales se redujeron significativamente de 54.9 millones en 2019 a tan solo 34.6 millones en 2020, mientras que el turismo extranjero experimentó un descenso aún más alarmante, pasando de 8.3 millones a un mínimo histórico de 1.8 millones en el mismo periodo (MINCETUR, 2024). Si bien en los años posteriores se observa una tendencia de recuperación gradual en ambos segmentos, con un aumento constante en las cifras de arribos, aún no se alcanzan los niveles prepandemia, especialmente en el caso del turismo internacional. Esta situación resalta la necesidad de revitalizar el sector a través de la innovación, donde la Inteligencia Artificial (IA) y la domótica emergen como herramientas clave. La IA puede personalizar la experiencia del viajero, optimizar la gestión de recursos y predecir tendencias, mientras que la domótica puede mejorar la eficiencia y el confort en los alojamientos, ofreciendo experiencias más seguras, personalizadas y atractivas para los visitantes en la nueva normalidad.
+
+Por lo tanto, existe una necesidad continua de que los hoteles en Lima adopten e integren tecnologías avanzadas para personalizar la experiencia del huésped y mejorar la eficiencia. A pesar de los desafíos económicos y de infraestructura, la transformación digital y la adopción de IoT son fundamentales para satisfacer las expectativas de los turistas y mantener la competitividad en el mercado hotelero.
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+Nuestro contexto demanda soluciones tecnológicas innovadoras para optimizar la experiencia hotelera de los huéspedes, permitiéndoles personalizar su entorno y disfrutar de una estadía adaptada a sus necesidades individuales. A través de nuestra aplicación de gestión hotelera, buscamos brindar una plataforma integral que permita a los usuarios ingresar sus preferencias y que estas se traduzcan en una habitación inteligente y personalizada desde el momento en que reciben la llave.
+
+Hemos observado un factor importante que afecta la satisfacción de los huéspedes, el cual se manifiesta en la falta de personalización y adaptación de las habitaciones a sus gustos y requerimientos específicos, limitando la sensación de confort y exclusividad durante su estadía.
+
+¿Cómo podemos desarrollar una aplicación de gestión hotelera que se adapte a las necesidades individuales de cada huésped, integrando tecnologías como IoT, biometría y domótica para ofrecer una experiencia personalizada y optimizada en hoteles inteligentes de Lima?
 #### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
+##### Business Assumptions
+
+|Assumption|Description|
 |-|-|
-|1. - 12. |1. - 6.|
+| Aumento de satisfacción      | La aplicación incrementará la satisfacción del cliente, promoviendo su fidelización y recomendaciones.        |
+| Rentabilidad de IoT          | La inversión en domótica e IoT será rentable a mediano plazo por la diferenciación y optimización de recursos.|
+| Adaptación del personal      | El personal administrativo podrá adaptarse fácilmente al dashboard y usarlo en su rutina diaria.              | 
+| Colaboración con proveedores | Habrá una cooperación fluida con proveedores de domótica para integración y mantenimiento.                    |
+| Diferenciación competitiva   | La idea de un "hotel inteligente" destacará frente a otros hoteles en Lima.                                   |
+| Versión móvil eficiente      | La versión móvil facilitará la interacción del huésped en todas las etapas de su experiencia.                 |
+
+
+##### User Assumptions
+|Assumption|Description|
+|-|-|
+| Interés en personalización | Los turistas estarán interesados en la propuesta de personalización vía app.           |
+| Valoración del control     | Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular.|
+| Facilidad de uso           | Los usuarios verán la app como intuitiva y fácil de usar.                              |
+| Confianza en biometría     | Habrá confianza en el uso de tecnología biométrica para acceso y personalización.      |
+| Tiempo para configurar     | Los turistas estarán dispuestos a configurar preferencias antes o al llegar.           |
+| Percepción de valor        | Los huéspedes verán el hotel inteligente como un valor agregado significativo.         |
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+1. Creemos que ofrecer a los huéspedes la capacidad de personalizar su habitación a través de una aplicación móvil antes de su llegada aumentará su satisfacción general con la estadía.
+Sabremos que hemos tenido éxito cuando observemos un aumento del 15% en las puntuaciones de satisfacción del cliente relacionadas con la comodidad y personalización de la habitación en las encuestas post-estancia.
+
+2. Creemos que la implementación de un dashboard intuitivo para el personal administrativo que centralice las preferencias de los huéspedes optimizará la gestión del hotel y reducirá el tiempo dedicado a tareas relacionadas con la personalización de habitaciones.
+Sabremos que hemos tenido éxito cuando el personal administrativo reporte una reducción del 10% en el tiempo promedio dedicado a la preparación y ajuste de las habitaciones según las preferencias de los huéspedes.
+
+3. Creemos que la integración de tecnología biométrica para el acceso a la habitación y la personalización del entorno aumentará la percepción de seguridad y exclusividad entre los huéspedes.
+Sabremos que hemos tenido éxito cuando al menos el 80% de los huéspedes que utilicen la función biométrica la califiquen positivamente en términos de seguridad y conveniencia en las encuestas post-estancia.
+
+4. Creemos que ofrecer control domótico de la habitación a través de la aplicación (iluminación, temperatura, etc.) mejorará la comodidad y la experiencia general de los huéspedes durante su estadía.
+Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en el uso de las funciones de control domótico dentro de la aplicación por parte de los huéspedes activos.
+
+5. Creemos que al proporcionar una plataforma que permite a los proveedores de domótica monitorear el funcionamiento de sus dispositivos en tiempo real, se facilitará el mantenimiento preventivo y se minimizarán los problemas técnicos en las habitaciones.
+Sabremos que hemos tenido éxito cuando se registre una disminución del 5% en el número de reportes de fallas de los dispositivos de domótica en las habitaciones inteligentes.
+
+6. Creemos que la disponibilidad de una versión móvil de la aplicación aumentará la interacción de los huéspedes con la plataforma antes, durante y después de su estadía, fomentando la exploración de los servicios del hotel y posibles reservas futuras.
+Sabremos que hemos tenido éxito cuando observemos un aumento del 10% en el número de usuarios activos en la versión móvil de la aplicación y un incremento del 5% en las consultas o reservas realizadas a través de la misma.
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+##### Segmento 1: Huéspedes que desean hospedarse en un hotel
 
+Este segmento incluye a individuos de diversos perfiles demográficos y socioeconómicos que tienen la necesidad o el deseo de alojarse en un hotel en Lima, ya sea por motivos de turismo, negocios u otros.
+
+**Características demográficas:**
+
+- **Rango de edad:** Amplio, desde jóvenes adultos hasta personas mayores.
+- **Geografía:** Principalmente turistas nacionales e internacionales que visitan Lima, así como residentes locales que buscan una experiencia diferente.
+- **Intereses:** Búsqueda de comodidad, conveniencia, experiencias personalizadas y, específicamente para nuestro caso, interés en la innovación tecnológica y la domótica en hoteles.
+
+**Problema:** Estos huéspedes buscan una experiencia hotelera que vaya más allá de la simple pernoctación, deseando un entorno que se adapte a sus preferencias individuales para una estadía más confortable y memorable.
+
+##### Segmento 2: Personal administrativo del hotel
+
+Este segmento comprende a los empleados del hotel encargados de la gestión operativa, la atención al cliente y el mantenimiento de las instalaciones.
+
+**Características demográficas:**
+
+- **Roles:** Gerentes, recepcionistas, personal de mantenimiento, personal de limpieza, etc.
+- **Necesidades:** Herramientas eficientes para la gestión de reservas, la atención a los huéspedes, la organización de las habitaciones y el seguimiento del estado de los dispositivos.
+- **Objetivos:** Optimizar la eficiencia operativa, mejorar la satisfacción del cliente y reducir la carga de trabajo manual.
+
+**Problema:** El personal del hotel tiene problemas para saber qué le gusta a cada huésped y asegurarse de que su estadía sea tal como la prefieren. Esto es difícil porque no tienen un sistema fácil y único para guardar y usar esa información.
+
+##### Segmento 3: Proveedores de dispositivos de domótica
+
+Este segmento incluye a las empresas que desarrollan, fabrican y distribuyen dispositivos y sistemas de domótica (iluminación inteligente, control de temperatura, cerraduras electrónicas, etc.).
+
+**Características demográficas:**
+
+- **Tipo de empresas:** Desde startups tecnológicas hasta grandes corporaciones especializadas en IoT y automatización del hogar/edificios.
+- **Intereses:** Expandir su mercado, integrar sus productos en nuevos entornos (como hoteles), obtener datos sobre el rendimiento de sus dispositivos en un contexto de uso real y establecer alianzas estratégicas.
+
+**Problema:** Estos proveedores buscan canales efectivos para introducir sus tecnologías en el sector hotelero y necesitan plataformas que faciliten la integración y el monitoreo de sus dispositivos en las instalaciones de sus clientes.
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -570,6 +642,11 @@ Ocupación: _____
 [URL del video about the team](https://www.example.com)
 
 # Bibliografía
+
+MINCETUR. (2024). Arribos, pernoctaciones y oferta hotelera en establecimientos de hospedaje [LINK](https://datosturismo.mincetur.gob.pe/appdatosturismo/content3.html) Recuperado el 6 de enero del 2025
+
+Cántaro Márquez, A. L., Miranda Vásquez, G. F., & Ángeles Barrantes, D. (2023). Analysis of eco-innovations in Peruvian accommodation establishments. Sustainability, 15(8), 6700. [LINK](https://doi.org/10.3390/su15086700)
+
 qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
 Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
