@@ -486,7 +486,8 @@ Texto ubiquo: Definicion de este
 
 ## 3.3. Impact Mapping.
 
-![Impact Mapping](image.jpg)
+![Impact Mapping](/Assets/img/Chapter%203/Impact-map-Administrador-de-hotel.png)
+![Impact Mapping](/Assets/img/Chapter%203/Impact-map-huésped.png)
 
 ## 3.4. Product Backlog.
 
