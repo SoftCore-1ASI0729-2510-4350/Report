@@ -671,7 +671,13 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 ![Container Diagram](/Assets/img/Chapter%204/structurizr-101614-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![Guest Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-001.png)
+![Admin Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-004.png)
+![Support Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-006.png)
+![Reservation Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-002.png)
+![Content and Marketing Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-003.png)
+![Security Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-005.png)
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Esta yaselasaben (diagrama de clases)
