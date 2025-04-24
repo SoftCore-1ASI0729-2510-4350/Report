@@ -701,10 +701,13 @@ formato
 ```
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-![Imagen de algo no nuestro lol](image.jpg)
-
+video 1: [LINK](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETQAkMt6M7VHppn0V_2yowMB4lImpb1OLwaovBnNoPKKhg?e=qYLctj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+video 2: [LINK](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+video 3: [LINK](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EdDQjdiPjQ9JlAtkH5yDuhgBZcXkH52f6WubG0DGugxiYw?e=RGPOHp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+video 4: [LINK](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETgSUSNEantAraWk1atoAa4BjISZsufjnztzz_iJVxGXAg?e=oxnXyR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+video 5: [LINK](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETgSUSNEantAraWk1atoAa4BjISZsufjnztzz_iJVxGXAg?e=oxnXyR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+video 6: [LINK](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EU9qNutqfIdAlN0FVSU5avIBOmL9Y3mwIx2kCBAuGyURhw?e=Vb6lwq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+video 7: [LINK](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EY3QHbePejVFhy4Lxa49_84BAwjrm9Pk8aQZWCyGwuz63Q?e=BSpEnp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 
