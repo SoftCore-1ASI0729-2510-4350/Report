@@ -688,106 +688,451 @@ Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f90
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+#### **Tipografía (Inter)**
+La tipografía elegida para nuestra marca es Inter, por su estilo moderno, funcional y altamente legible. Su diseño limpio se adapta a distintos formatos, tanto digitales como impresos, garantizando una comunicación clara y profesional.
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+Gracias a su versatilidad, Inter funciona bien en títulos y textos extensos, reflejando los valores de innovación y accesibilidad de nuestra marca. Al ser de código abierto, también refuerza nuestro compromiso con soluciones sostenibles y colaborativas en un entorno digital dinámico.
+
+#### **Colores**
+La selección de nuestra paleta de colores para nuestro proyecto responde a una estrategia visual cuidadosamente diseñada para transmitir tecnología, confianza y sofisticación, elementos esenciales en la propuesta de valor de SoftCore.
+
+![Imagen de la paleta de colores del landing page](Assets/img/Chapter%204/Paleta-de-Colores.png)
+
+El color primario, un azul petróleo **(#37474F)**, establece la base visual del sitio y representa atributos como tecnología, profesionalismo y solidez. Este tono transmite autoridad, siendo ideal para productos tecnológicos dirigidos a usuarios que buscan eficiencia y modernidad en sus experiencias digitales.
+
+Como color de acento, se emplea un verde petróleo oscuro **(#00796B)** que comunica estabilidad, frescura y eficiencia. Este tono complementa perfectamente al color primario, añadiendo un contraste equilibrado que dinamiza la interfaz y aporta un toque distintivo a la identidad visual de la aplicación. Su variante más oscura **(#00695C)** se aplica en estados hover, creando una interacción suave y coherente, reforzando la sensación de fluidez y respuesta inmediata en la navegación.
+
+Los fondos claros como el gris azulado **(#ECEFF1)** y el degradado de gris medio a gris claro **(#CFD8DC --> #B0BEC5)** ofrecen una superficie limpia y luminosa, diseñada para mejorar la legibilidad, reducir la fatiga visual y mantener una atmósfera clara y ordenada. Estos colores funcionan como base sobre la cual los componentes interactivos y los bloques de contenido pueden destacar de manera natural, manteniendo siempre una estética elegante y balanceada.
+
+En las secciones inferiores, como el footer, se utiliza un tono grafito elegante **(#263238)** que proporciona un contraste fuerte y ayuda a separar visualmente los contenidos. Este fondo oscuro refuerza la jerarquía visual y da un cierre sólido a la estructura de la página.
+
+El texto principal está diseñado con un gris oscuro neutral **(#2E3C43)**, que garantiza una lectura cómoda, clara y accesible, especialmente en pantallas digitales. Además, se aplican sombras sutiles **(rgba(0, 0, 0, 0.1))** para generar profundidad y separación entre elementos, brindando una interfaz visualmente dinámica sin caer en la saturación.
+
+Finalmente, para situaciones que requieren llamar la atención del usuario, como advertencias o notificaciones importantes, se utiliza un naranja vibrante **(#FB8C00)**. Este color aporta energía y urgencia, destacando eficazmente en contraste con el resto de la paleta, sin comprometer la coherencia estética general.
+
+#### **Lenguaje**
+En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación para transformar la experiencia hotelera mediante tecnología inteligente. Buscamos conectar tanto con huéspedes como con profesionales del sector, manteniendo una comunicación clara, cercana y profesional. La combinación de tonos que emplearemos es la siguiente:
+
+1. **Profesional pero accesible:** Queremos transmitir seriedad y conocimiento en el desarrollo de soluciones tecnológicas aplicadas a la hotelería, sin dejar de ser comprensibles para todos los usuarios. Nuestra comunicación mostrará dominio técnico, pero con un lenguaje claro y cercano que invite a explorar nuestra propuesta sin barreras.
+2. **Formal pero cálido:** Aunque mantenemos un tono formal que refleje el compromiso y la confiabilidad de nuestra marca, también nos dirigimos a nuestros usuarios con cercanía. Nuestra intención es establecer una conexión humana y auténtica, transmitiendo confianza y empatía desde el primer contacto.
+3. **Respetuoso y empático:** Nos comunicamos con respeto hacia todos nuestros usuarios, reconociendo la diversidad de necesidades de huéspedes, administradores y personal hotelero. Nuestro lenguaje será inclusivo y considerado, promoviendo una relación de colaboración y apoyo constante.
+4. **Inspirador y optimista:** En SoftCore creemos que la tecnología puede mejorar profundamente la experiencia de hospedaje. Por ello, hablaremos con entusiasmo y convicción, motivando a nuestros usuarios a imaginar y vivir una nueva forma de hospedarse: más cómoda, personalizada e inteligente.
+
+#### **Branding**
+Nuestro logotipo representa de forma clara y minimalista la esencia de CustomHost. En él se aprecia la silueta de un hotel, acompañado por un ícono de señal inalámbrica en la parte superior, simbolizando la conectividad inteligente y el uso de tecnologías dentro de las habitaciones. Este diseño busca transmitir desde el primer vistazo el enfoque tecnológico de nuestro producto, que transforma la experiencia tradicional de hospedaje en una experiencia personalizada y digital.
+
+![Imagen del logo de nuestra startup](Assets/img/Chapter%204/CustomHost-Logo.jpg)
+
 ### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+#### **Descripción General**
+Este diseño corresponde a la aplicación web de CustomHost, una plataforma inteligente que permite a los huéspedes personalizar su estadía y a los hoteles optimizar su gestión mediante tecnologías como domótica y biometría. El diseño incluye la pantalla de inicio, la cual mantiene un estilo visual coherente utilizando una paleta de colores sobrios y tecnológicos como el azul petróleo y el verde oscuro. Además, se aplica una tipografía definida que refuerza la imagen moderna y profesional de la marca.
+<br>
+
+#### **1. Pantalla de Inicio**
+**Header:**
+- Logo (esquina superior izquierda).
+- Menú de navegación con opciones: Home, SmartStay, About Us y Contact Us.
+- Botones "Log In" y "Sign Up".
+- Número y correo de contacto.
+
+![Imagen del Header del landing page](Assets/img/Chapter%204/Header.png)
+<br>
+
+**Home:**
+- Texto de bienvedida a nuestra aplicación web.
+- Descripción acerca de lo que se puede hacer en nuestro hotel.
+
+![Imagen de la sección Home del landing page](Assets/img/Chapter%204/Home.png)
+<br>
+
+**SmartStay:**
+En esta sección se le presenta a los usuarios una introducción visual e informativa de los principales beneficios de usar CustomHost durante su estadía en un hotel inteligente.
+
+![Imagen de la sección SmartStay del landing page](Assets/img/Chapter%204/SmartStay.png)
+<br>
+
+**About Us:**
+En esta sección se presenta una introducción a la startup SoftCore. Los usuarios conocen quiénes están detrás del proyecto, cuál es su propósito y qué los motiva.
+
+![Imagen de la sección About Us del landing page](Assets/img/Chapter%204/About_Us.png)
+<br>
+
+**Contact Us**
+En esta sección se presenta un formulario solicitando los datos al usuario como su nombre, su correo y el mensaje que desea enviarnos para poder contactarse con nosotros.
+
+![Imagen de la sección Contact Us del landing page](Assets/img/Chapter%204/Contact_Us.png)
+<br>
+
+**Footer**
+- El logo junto con correo y numero de contacto.
+- Secciones de partes de CustomHost como "Home", “SmartStay”, "About Us" y "Contact Us”.
+- Ayuda el usuario como “Preguntas frecuentes”, “Términos de servicio”, Reportar un problema” y “Política de privacidad”.
+- Algunos contactos y las redes sociales.
+
+![Imagen del Footer del landing page](Assets/img/Chapter%204/Footer.png)
+<br>
+
 ## 4.2. Information Architecture.
+La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
+
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
+*Organización visual del contenido*
+Se empleará una estructura jerárquica visual clara en la Landing Page y en cada sección de la plataformaweb. Se priorizará la presentación de información clave como el panel de preferencias del huésped, el estado de las habitaciones, y accesos rápidos a funciones como check-in, control domótico o comunicación con el personal.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
-
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+Estos son los principios de etiquetado aplicados en la plataforma:
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+*Claridad y simplicidad*
+Se emplea un lenguaje accesible para los usuarios, evitando tecnicismos innecesarios en la interfaz del huésped. En el caso del personal técnico y administrativo, se mantienen ciertos términos específicos, especialmente en la gestión de dispositivos inteligentes y mantenimiento.
+
+*Brevedad*
+Las etiquetas de botones, menús y opciones se mantienen breves y directas, facilitando la navegación ágil desde cualquier dispositivo.
+
 ### 4.2.3. SEO Tags and Meta Tags
-
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+- Título: <title> CustomHost | Personaliza tu estadía con tecnología inteligente </title>
+- Descripción: <meta name = "description" content = "Plataforma que permite a huéspedes y hoteles personalizar habitaciones con domótica, IoT y acceso biométrico. Vive una experiencia única e inteligente."/>
+- Palabras Clave: <meta name = "keyword" content = "Hoteles inteligentes, domótica hotelera, IoT en hoteles, personalización de estadía, check-in digital, habitaciones automatizadas"/>
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+Al ingresar, el usuario será recibido con una pantalla de bienvenida donde se encontrará con dos botones en la parte superior derecha, uno para registrarse y otro para inicar sesión. Una vez iniciada la sesión, la navegación dentro de la aplicación estará organizada para facilitar una experiencia fluida e intuitiva.
+
+Los usuarios contarán con una barra de navegación superior que les permitirá acceder fácilmente a las principales funciones. Desde allí podrán personalizar su estadía, controlar su entorno, solicitar ayuda o gestionar su salida del hotel.
+
+La navegación estará reforzada con íconos, etiquetas breves y estados activos visuales, para garantizar que los usuarios siempre sepan dónde están y cómo volver o avanzar en sus acciones.
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
-## 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
+Al ingresar al sitio web de CustomHost, el usuario visualizará una barra de navegación fija en la parte superior de la pantalla, la cual facilitará el acceso directo a las secciones más importantes del sitio.
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+![Imagen del Header del landing page](Assets/img/Chapter%204/Header.png)
+
+Esta barra permanecerá visible durante toda la navegación, sin importar la sección visitada, asegurando así un acceso ágil y constante a todos los servicios y recursos que ofrece CustomHost.
+
+## 4.3. Landing Page UI Design.
+En esta sección se presentan los diseños correspondientes a nuestra Landing Page, los cuales se encuentran divididos en dos partes: por un lado, los wireframes que muestran una estructura simplificada de la interfaz, y por otro, el mock-up visual que servirá como referencia estética y funcional para el desarrollo final de la página.
+
+### 4.3.1. Landing Page Wireframe.
+[Link en Figma]https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Source?node-id=0-1&t=onFk0P7pOleIFYsV-1
+
+![Imagen del Wireframe 1](Assets/img/Chapter%204/Wireframe_1.png)
+![Imagen del Wireframe 2](Assets/img/Chapter%204/Wireframe_2.png)
+![Imagen del Wireframe 3](Assets/img/Chapter%204/Wireframe_3.png)
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+[Link en Figma]https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Source?node-id=0-1&t=onFk0P7pOleIFYsV-1
+
+![Imagen del Mock-Up 1](Assets/img/Chapter%204/Mock-Up_1.png)
+![Imagen del Mock-Up 2](Assets/img/Chapter%204/Mock-Up_2.png)
+![Imagen del Mock-Up 3](Assets/img/Chapter%204/Mock-Up_3.png)
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-1.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-2.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-3.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-4.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-5.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-6.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-7.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-8.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-9.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-10.jpg)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+
+![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow1.jpg)
+![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow-2.jpg)
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-1.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-2.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-3.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-4.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-5.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-6.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-7.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-8.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-9.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-10.jpg)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+
+![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-1.jpg)
+![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-2.jpg)
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
-
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+![Software Architecture Context Diagram](/Assets/img/Chapter%204/structurizr-101614-SystemContext-001-fixed.png)
    
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+![Container Diagram](/Assets/img/Chapter%204/structurizr-101614-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![Guest Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-001.png)
+![Admin Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-004.png)
+![Support Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-006.png)
+![Reservation Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-002.png)
+![Content and Marketing Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-003.png)
+![Security Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-005.png)
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+![Class Diagram img](Assets/img/Chapter%204/class-diagram.png)
+
+[> Click aquí para acceder al diagrama <](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
+
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+
+## 1. GuestAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con los huéspedes.
+- **Relationships**:
+  - Contiene `Guest` (1:1).
+  - Contiene `Card` (0..1).
+  - Contiene `Preference` (0..*).
+  - Contiene `ServiceRequest` (0..*).
+
+---
+
+## 2. Guest
+- **Type**: Entity
+- **Attributes**:
+  - `GuestId`: Identity (Identificador único del huésped).
+  - `Name`: string (Nombre del huésped).
+  - `Email`: string (Correo electrónico del huésped).
+  - `CheckInDate`: DateTime (Fecha de entrada).
+  - `CheckOutDate`: DateTime (Fecha de salida).
+- **Methods**:
+  - `CreatePreference(preferenceType, value)`: Crea una nueva preferencia para el huésped.
+  - `RequestService(type)`: Solicita un servicio para el huésped.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+  - Tiene `Reservation` (0..*).
+  - Tiene `ServiceRequest` (0..*).
+  - Tiene `Preference` (0..*).
+
+---
+
+## 3. Card
+- **Type**: Entity
+- **Attributes**:
+  - `CardId`: Identity (Identificador único de la tarjeta).
+  - `IsActive`: boolean (Indica si la tarjeta está activa).
+- **Methods**:
+  - `Activate()`: Activa la tarjeta.
+  - `Deactivate()`: Desactiva la tarjeta.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+
+---
+
+## 4. RoomAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con las habitaciones.
+- **Relationships**:
+  - Contiene `Room` (1:1).
+  - Contiene `Reservation` (0..*).
+
+---
+
+## 5. Room
+- **Type**: Entity
+- **Attributes**:
+  - `RoomId`: Identity (Identificador único de la habitación).
+  - `Number`: string (Número de la habitación).
+- **Methods**:
+  - `AssignDevice(device)`: Asigna un dispositivo a la habitación.
+- **Relationships**:
+  - Pertenece a `RoomAggregate`.
+  - Tiene `Reservation` (0..*).
+  - Tiene `Device` (0..*).
+
+---
+
+## 6. Reservation
+- **Type**: Entity
+- **Attributes**:
+  - `ReservationId`: Identity (Identificador único de la reserva).
+  - `PaymentStatus`: PaymentStatusEnum (Estado de pago de la reserva).
+- **Methods**:
+  - `UpdatePaymentStatus(status)`: Actualiza el estado de pago de la reserva.
+- **Relationships**:
+  - Pertenece a `RoomAggregate`.
+  - Está relacionada con `Guest` (1:0..*).
+  - Está relacionada con `Room` (1:0..*).
+
+---
+
+## 7. StaffAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con el personal.
+- **Relationships**:
+  - Contiene `Staff` (1:1).
+  - Contiene `MaintenanceLog` (0..*).
+
+---
+
+## 8. Staff
+- **Type**: Entity
+- **Attributes**:
+  - `StaffId`: Identity (Identificador único del miembro del personal).
+  - `Name`: string (Nombre del miembro del personal).
+  - `Role`: string (Rol del miembro del personal).
+  - `AccessLevel`: AccessLevelEnum (Nivel de acceso del miembro del personal).
+- **Methods**:
+  - `HandleServiceRequest(request)`: Maneja una solicitud de servicio.
+  - `PerformDeviceMaintenance(device, action)`: Realiza mantenimiento en un dispositivo.
+- **Relationships**:
+  - Pertenece a `StaffAggregate`.
+  - Tiene `MaintenanceLog` (0..*).
+  - Maneja `ServiceRequest` (0..*).
+
+---
+
+## 9. DeviceAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con los dispositivos.
+- **Relationships**:
+  - Contiene `Device` (1:1).
+  - Contiene `StatusLog` (0..*).
+
+---
+
+## 10. Device
+- **Type**: Entity
+- **Attributes**:
+  - `DeviceId`: Identity (Identificador único del dispositivo).
+  - `CurrentSetting`: DeviceSetting (Configuración actual del dispositivo).
+- **Methods**:
+  - `UpdateSetting(setting)`: Actualiza la configuración del dispositivo.
+  - `LogStatus(status)`: Registra el estado del dispositivo.
+- **Relationships**:
+  - Pertenece a `DeviceAggregate`.
+  - Está instalado en `Room` (1:0..*).
+  - Tiene `DeviceType` (1:1).
+  - Tiene `MaintenanceLog` (0..*).
+  - Tiene `StatusLog` (0..*).
+
+---
+
+## 11. ServiceRequest
+- **Type**: Entity
+- **Attributes**:
+  - `RequestId`: Identity (Identificador único de la solicitud de servicio).
+  - `Type`: string (Tipo de solicitud de servicio).
+  - `Status`: RequestStatusEnum (Estado de la solicitud de servicio).
+  - `Timestamp`: DateTime (Marca de tiempo de la solicitud).
+- **Methods**:
+  - `AssignStaff(staff)`: Asigna un miembro del personal a la solicitud.
+  - `UpdateStatus(status)`: Actualiza el estado de la solicitud.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+  - Es manejada por `Staff` (0..1).
+
+---
+
+## 12. DeviceType
+- **Type**: Value Object
+- **Attributes**:
+  - `DeviceTypeId`: Identity (Identificador único del tipo de dispositivo).
+  - `Name`: string (Nombre del tipo de dispositivo).
+- **Relationships**:
+  - Está relacionado con `Device` (1:0..*).
+  - Aplica a `PreferenceType` (0..*).
+
+---
+
+## 13. PreferenceType
+- **Type**: Value Object
+- **Attributes**:
+  - `PreferenceTypeId`: Identity (Identificador único del tipo de preferencia).
+  - `Name`: string (Nombre del tipo de preferencia).
+- **Relationships**:
+  - Está relacionado con `Preference` (1:0..*).
+  - Se aplica a `DeviceType` (0..*).
+
+---
+
+## 14. Preference
+- **Type**: Value Object
+- **Attributes**:
+  - `PreferenceId`: Identity (Identificador único de la preferencia).
+  - `Value`: string (Valor de la preferencia).
+- **Relationships**:
+  - Pertenece a `Guest` (1:0..*).
+  - Está relacionado con `PreferenceType` (1:1).
+
+---
+
+## 15. DeviceSetting
+- **Type**: Value Object
+- **Attributes**:
+  - `SettingData`: Map<string, string> (Datos de configuración del dispositivo).
+- **Relationships**:
+  - Es utilizado por `Device` (1:1).
+
+---
+
+## 16. MaintenanceLog
+- **Type**: Value Object
+- **Attributes**:
+  - `LogId`: Identity (Identificador único del registro de mantenimiento).
+  - `Action`: string (Acción realizada durante el mantenimiento).
+  - `Timestamp`: DateTime (Marca de tiempo del registro).
+- **Relationships**:
+  - Es realizado por `Staff` (1:0..*).
+  - Es recibido por `Device` (1:0..*).
+
+---
+
+## 17. StatusLog
+- **Type**: Value Object
+- **Attributes**:
+  - `StatusLogId`: Identity (Identificador único del registro de estado).
+  - `Status`: string (Estado registrado).
+  - `Timestamp`: DateTime (Marca de tiempo del registro).
+- **Relationships**:
+  - Es registrado por `Device` (1:0..*).
+
+---
+
+## 18. AccessLevelEnum
+- **Type**: Enumeration
+- **Values**:
+  - `BASIC = 1`
+  - `INTERMEDIATE = 2`
+  - `ADMIN = 3`
+
+---
+
+## 19. RequestStatusEnum
+- **Type**: Enumeration
+- **Values**:
+  - `PENDING`
+  - `IN_PROGRESS`
+  - `COMPLETED`
+  - `CANCELLED`
+
+---
+
+## 20. PaymentStatusEnum
+- **Type**: Enumeration
+- **Values**:
+  - `PENDING`
+  - `PAID`
+  - `REFUNDED`
+  - `CANCELLED`
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+![Database Diagram](Assets/img/Chapter%204/database-diagram.png)
+
+[>Click aquí para acceder al diagrama<](https://my.vertabelo.com/public-model-view/n0NImX9sR1voJyd33Hr1iawsHgx7swpzz7jOBxA2VjOTE3i8WLuZf64ZQlNCyCLB?x=2736&y=2923&zoom=0.4375)
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
