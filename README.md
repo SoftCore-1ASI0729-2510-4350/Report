@@ -24,7 +24,7 @@
 |Axel Randall Ordoñez Ricaldi      | U202216827 |
 |Fabrizio Martin Panta Castro      | U20231A810 |
 |Brayan Roberto Ccarita Cruz       | U20221C218 |
-|  |  |
+|Alison Jimena Arrieta Quispe | U202312031 |
 |              |  |
 |          |  |
 
@@ -188,6 +188,7 @@ Con un enfoque inicial en el mercado hotelero de Lima, SoftCore aspira a convert
 |-|-|-|-|
 | Ordoñez Ricaldi, Axel Randall 	![Imagen del compañero](Assets/img/Chapter%201/Axel-photo.jpg)|U202216827|Ingenieria de software|C++, SQL, MongoDB, Python. Paciencia y buen trabajo en equipo|
 |  Panta Castro, Fabrizio Martin  ![Imagen del compañero](Assets/img/Chapter%201/Fabrizio-photo.jpg)| U20231A810  |  Ingeniería de Software |  SQL, Pyhton, C++. Compañerismo y responsable con las entregas. |
+|  Arrieta Quispe, Alison Jimena  ![Imagen del compañero](Assets/img/Chapter%201/Alison-photo.png)| u202312031  |  Ingeniería de Software |  C++, MySql, Python, JavaScript, C#, Java, Docker. Responsable y trabajadora en los cursos. |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
