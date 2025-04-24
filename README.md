@@ -607,7 +607,13 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![Guest Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-001.png)
+![Admin Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-004.png)
+![Support Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-006.png)
+![Reservation Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-002.png)
+![Content and Marketing Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-003.png)
+![Security Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-005.png)
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Esta yaselasaben (diagrama de clases)
