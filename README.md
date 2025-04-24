@@ -521,11 +521,8 @@ Finalmente, para situaciones que requieren llamar la atención del usuario, como
 En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación para transformar la experiencia hotelera mediante tecnología inteligente. Buscamos conectar tanto con huéspedes como con profesionales del sector, manteniendo una comunicación clara, cercana y profesional. La combinación de tonos que emplearemos es la siguiente:
 
 1. **Profesional pero accesible:** Queremos transmitir seriedad y conocimiento en el desarrollo de soluciones tecnológicas aplicadas a la hotelería, sin dejar de ser comprensibles para todos los usuarios. Nuestra comunicación mostrará dominio técnico, pero con un lenguaje claro y cercano que invite a explorar nuestra propuesta sin barreras.
-<br>
 2. **Formal pero cálido:** Aunque mantenemos un tono formal que refleje el compromiso y la confiabilidad de nuestra marca, también nos dirigimos a nuestros usuarios con cercanía. Nuestra intención es establecer una conexión humana y auténtica, transmitiendo confianza y empatía desde el primer contacto.
-<br>
 3. **Respetuoso y empático:** Nos comunicamos con respeto hacia todos nuestros usuarios, reconociendo la diversidad de necesidades de huéspedes, administradores y personal hotelero. Nuestro lenguaje será inclusivo y considerado, promoviendo una relación de colaboración y apoyo constante.
-<br>
 4. **Inspirador y optimista:** En SoftCore creemos que la tecnología puede mejorar profundamente la experiencia de hospedaje. Por ello, hablaremos con entusiasmo y convicción, motivando a nuestros usuarios a imaginar y vivir una nueva forma de hospedarse: más cómoda, personalizada e inteligente.
 
 
