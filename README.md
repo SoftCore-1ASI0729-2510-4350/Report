@@ -25,8 +25,8 @@
 |Fabrizio Martin Panta Castro      | U20231A810 |
 |Brayan Roberto Ccarita Cruz       | U20221C218 |
 | Alison Jimena Arrieta Quispe  | U202312031 |
-|              |  |
-|          |  |
+|Andrew Jomark Santiago Peña| U202317362 |
+
 
 <br> Abril 2025
 </center>  
