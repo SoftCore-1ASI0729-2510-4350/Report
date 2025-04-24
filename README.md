@@ -468,7 +468,7 @@ Con esta informacion estamos sustentando los supuestos por el lado del segmento 
 ![Imagen de entrevista](Assets/img/Chapter%201/persona1.png)
 
 **Segmento 2:**
-![Imagen de entrevista](Assets\img\Chapter%201\persona2.png)
+![Imagen de entrevista](Assets/img/Chapter%201/persona2.png)
 
 
 ### 2.3.2. User Task Matrix.
@@ -506,18 +506,18 @@ Why would they invite others?
 - Sistema de referidos con recompensas para ambos (ej: "Invita a un amigo y ambos ganan 20% de descuento").
 **Segmento 1:**  
 
-![Journey 1](Assets\img\Chapter%201\journey%201.png)
+![Journey 1](Assets/img/Chapter%201/journey%201.png)
 
 **Segmento 2:**
-![Journey 2](Assets\img\Chapter%201\journey%202.png)
+![Journey 2](Assets/img/Chapter%201/journey%202.png)
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Emphaty 1](Assets\img\Chapter%201\empathy%201.png)
+![Emphaty 1](Assets/img/Chapter%201/empathy%201.png)
 
 
 **Segmento 2:**
-![Emphaty 2](Assets\img\Chapter%201\emphaty%202.png)
+![Emphaty 2](Assets/img/Chapter%201/emphaty%202.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
