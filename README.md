@@ -643,8 +643,9 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+
+![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow1.jpg)
+![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow-2.jpg)
 ### 4.4.2. Web Applications Mock-ups.
 
 ![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-1.jpg)
