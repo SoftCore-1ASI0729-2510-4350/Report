@@ -371,7 +371,7 @@ Browser: Safari y windows
 Device: Celular Iphone y laptop
 Distrito: San miguel
 Timing:   
-![Imagen de entrevista](<Assets/img/Chapter 1/Entrevista 2 segmento 1.png>) 
+![Imagen de entrevista](<Assets/img/Chapter 1/entrevista 2 segmento 1.png>) 
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:01]
 
@@ -385,7 +385,7 @@ Browser: Google chrome
 Device: computaora y celular
 Distrito: San Borja
 Timing:   
-![Imagen de entrevista](<Assets/img/Chapter 1/Entrevista 3 segmento 1.png>)
+![Imagen de entrevista](<Assets/img/Chapter 1/entrevista 3 segmento 1.png>)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:03]
 
@@ -400,7 +400,7 @@ Browser: Safari
 Device: Macbook y Iphone
 Distrito: San Isidro
 Timing:     
-![Imagen de entrevista](<Assets/img/Chapter 1/Entrevista 1 segmento 2.png>)
+![Imagen de entrevista](<Assets/img/Chapter 1/entrevista 1 segmento 2.png>)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETgSUSNEantAraWk1atoAa4BjISZsufjnztzz_iJVxGXAg?e=oxnXyR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:04]
 
@@ -416,7 +416,7 @@ Browser: Opera gx y windows
 Device: laptop y telefono android
 Distrito: Jesus Maria
 Timing:  
-![Imagen de entrevista](<Assets/img/Chapter 1/Entrevista 2 segmento 2.png>)
+![Imagen de entrevista](<Assets/img/Chapter 1/entrevista 2 segmento 2.png>)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EU9qNutqfIdAlN0FVSU5avIBOmL9Y3mwIx2kCBAuGyURhw?e=Vb6lwq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:02]
 
@@ -433,7 +433,7 @@ Browser: Firefox
 Device: Laptop
 Distrito: Lince
 Timing:  
-![Imagen de entrevista](<Assets/img/Chapter 1/Entrevista 3 segmento 2.png>)
+![Imagen de entrevista](<Assets/img/Chapter 1/entrevista 3 segmento 2.png>)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EY3QHbePejVFhy4Lxa49_84BAwjrm9Pk8aQZWCyGwuz63Q?e=BSpEnp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:02]
 
