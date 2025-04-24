@@ -190,6 +190,7 @@ Con un enfoque inicial en el mercado hotelero de Lima, SoftCore aspira a convert
 |  Panta Castro, Fabrizio Martin  ![Imagen del compañero](Assets/img/Chapter%201/Fabrizio-photo.jpg)| U20231A810  |  Ingeniería de Software |  SQL, Pyhton, C++. Compañerismo y responsable con las entregas. |
 |  Arrieta Quispe, Alison Jimena  ![Imagen del compañero](Assets/img/Chapter%201/Alison-photo.png)| U202312031  |  Ingeniería de Software |  MySql, C++, C#, Docker, Java, JavaScript. Responsable y Trabajadora. |
 | Brayan Roberto, Ccarita Cruz 	![Imagen del compañero](Assets/img/Chapter%201/Roberto-photo.jpg)|U20221C218|Ingenieria de software|Astro.js, Svelte, Golang, SQL, Design Sprint. Perseverante y Puntual|
+|Santiago Peña, Andrew Joamrk ![Imagen del compañero](/Assets/img/Chapter%201/Andrew-photo.jpg)|U202317362|Ingenieria de software|MySql, C++, C#, Docker, Perseverante y buen trabajo en equipo|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
