@@ -502,8 +502,7 @@ Gracias a su versatilidad, Inter funciona bien en títulos y textos extensos, re
 #### **Colores**
 La selección de nuestra paleta de colores para nuestro proyecto responde a una estrategia visual cuidadosamente diseñada para transmitir tecnología, confianza y sofisticación, elementos esenciales en la propuesta de valor de SoftCore.
 
-**PALETA DE COLORES IMG**
----------------
+![Imagen de la paleta de colores del landing page](Assets/img/Chapter%204/Paleta-de-Colores.png)
 
 El color primario, un azul petróleo **(#37474F)**, establece la base visual del sitio y representa atributos como tecnología, profesionalismo y solidez. Este tono transmite autoridad, siendo ideal para productos tecnológicos dirigidos a usuarios que buscan eficiencia y modernidad en sus experiencias digitales.
 
