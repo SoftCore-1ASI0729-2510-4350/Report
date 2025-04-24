@@ -583,8 +583,19 @@ Mockup es todo lo relacionado al diseño de la pagina
 ![Landing page mockup](image.jpg)
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-1.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-2.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-3.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-4.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-5.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-6.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-7.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-8.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-9.jpg)
+![web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-10.jpg)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
