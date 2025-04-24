@@ -19,14 +19,13 @@
 ### <center>Team  Members:</center>
 <center>
 
-| Member                           | Code       |
-|----------------------------------|------------|
-|Axel Randall Ordoñez Ricaldi      | U202216827 |
-|Fabrizio Martin Panta Castro      | U20231A810 |
-|Brayan Roberto Ccarita Cruz       | U20221C218 |
-| Alison Jimena Arrieta Quispe  | U202312031 |
-|              |  |
-|          |  |
+| Member                            | Code       |
+|-----------------------------------|------------|
+| Axel Randall Ordoñez Ricaldi      | U202216827 |
+| Fabrizio Martin Panta Castro      | U20231A810 |
+| Brayan Roberto Ccarita Cruz       | U20221C218 |
+| Alison Jimena Arrieta Quispe      | U202312031 |
+| Andreow Jomark Santiago Peña      | U202317362 |
 
 <br> Abril 2025
 </center>  
@@ -36,7 +35,11 @@
 
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 07/04/2025 |SoftCore |Se crea el documento |  
+| TB1 | 23/04/2025 | Axel Randall Ordoñez Ricaldi | - Product baclog<br> - Imapct Mapping<br> - Domain Driver Software Architecture |  
+| TB1 | 23/04/2025 | Fabrizio Martin Panta Castro | - To-be Scenario Mapping<br> - User Stories<br> - Style Guidelines<br> - Information Architecture |  
+| TB1 | 23/04/2025 | Brayan Roberto Ccarita Cruz | - Startup Profile<br> - Solution Profile<br> - Segmentos objetivos<br> - Software Object-Priented Design |  
+| TB1 | 23/04/2025 | Alison Jimena Arrieta Quispe | - Competidores<br> - Entrevistas<br> - Landing Page UI Design<br> -  Landing Page|  
+| TB1 | 23/04/2025 | Andreow Jomark Santiago Peña | - Needfinding<br> - Ubiquitous Language<br> - Web Application UX/UI Design |  
 
 </center>
 
@@ -171,8 +174,8 @@
 # Student Outcome
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|<p>Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc..</p>|Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|<p>- Axel Ordoñez:<br> **TB1:**  En este entregable, he contribuido activamente en las diversas reuniones y en el cumplimiento de los objetivos, demostrando eficacia y eficiencia para optimizar la calidad de la solución. También, me encargué de realizar el Product baclog, Imapct Mapping y Domain Driver Software Architecture. <br><br> - Fabrizio Panta:<br> **TB1:** En este entregable participé activamente en las reuniones realizadas, también me encargué de ralizar mi actividades asignadas a tiempo. Me encargué de To-be Scenario Mapping, User Stories, Style Guidelines e Information Architecture. <br><br> - Bryan Ccarita:<br> **TB1:** En este entregable me encargué de Startup Profile, Solution Profile, Segmentos objetivos y Software Object-Priented Design. <br><br>  - Alison Arrieta:<br> **TB1:** En este entregable he participado en distintos artefactos y requisitos del proyecto de software como Competidores, Entrevistas, Landing Page UI Design y Landing Page. <br><br> - Andreow Santiago:<br> **TB1:** En este entregable he participado en distintos artefactos y requisitos del proyecto de software como Needfinding, Ubiquitous Language y Web Application UX/UI Design. </p>|En conclusión, en este entregable hemos colaborado activamente evaluando distintas alternativas y requisitos, con el objetivo de mejorar nuestra propuesta de solución en Ingeniería de Software de manera eficaz, eficiente y objetiva.|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |<p>- Axel Ordoñez:<br> **TB1:**  En este entregable, he mantenido un diálogo constante con mi grupo de trabajo para compartir conocimientos sobre distintos sectores empresariales o dominios de aplicaciones de software, lo que nos ha permitido evaluar y planificar nuestras ideas de forma más efectiva. <br><br> - Fabrizio Panta:<br> **TB1:** En este entregable pude aprender más sobre como usar las herramientas de Github y aprender más sobre el sector hotelero. <br><br> - Bryan Ccarita:<br> **TB1:** En este entregable, he contribuido con mi equipo compartiendo mis conocimientos en diversos requisitos del proceso del proyecto. <br><br>  - Alison Arrieta:<br> **TB1:** En este entregable, he aportado mis ideas sobre sectores empresariales y los conocimientos que poseo en ciertos temas. Como resultado, hemos intercambiado saberes que enriquecen el desarrollo del proyecto. <br><br> - Andreow Santiago:<br> **TB1:** En este entregable he compartido mis conocimientos en requisitos de software y herramientas. </p>| En resumen, en este entregable hemos trabajado en equipo para intercambiar y compartir nuestros conocimientos sobre sectores empresariales o dominios relacionados con aplicaciones de soluciones de software.|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
