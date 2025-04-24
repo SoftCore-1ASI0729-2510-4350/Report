@@ -524,6 +524,10 @@ En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación 
 3. **Respetuoso y empático:** Nos comunicamos con respeto hacia todos nuestros usuarios, reconociendo la diversidad de necesidades de huéspedes, administradores y personal hotelero. Nuestro lenguaje será inclusivo y considerado, promoviendo una relación de colaboración y apoyo constante.
 4. **Inspirador y optimista:** En SoftCore creemos que la tecnología puede mejorar profundamente la experiencia de hospedaje. Por ello, hablaremos con entusiasmo y convicción, motivando a nuestros usuarios a imaginar y vivir una nueva forma de hospedarse: más cómoda, personalizada e inteligente.
 
+#### **Branding**
+Nuestro logotipo representa de forma clara y minimalista la esencia de CustomHost. En él se aprecia la silueta de un hotel, acompañado por un ícono de señal inalámbrica en la parte superior, simbolizando la conectividad inteligente y el uso de tecnologías dentro de las habitaciones. Este diseño busca transmitir desde el primer vistazo el enfoque tecnológico de nuestro producto, que transforma la experiencia tradicional de hospedaje en una experiencia personalizada y digital.
+
+![Imagen del logo de nuestra startup](Assets/img/Chapter%204/CustomHost-Logo.jpg)
 
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
