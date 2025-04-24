@@ -668,7 +668,7 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 ![Software Architecture Context Diagram](/Assets/img/Chapter%204/structurizr-101614-SystemContext-001-fixed.png)
    
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+![Container Diagram](/Assets/img/Chapter%204/structurizr-101614-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
