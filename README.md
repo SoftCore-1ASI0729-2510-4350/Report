@@ -19,7 +19,7 @@
 ### <center>Team  Members:</center>
 <center>
 
-<<<<<<< HEAD
+
 | Member                            | Code       |
 |-----------------------------------|------------|
 | Axel Randall Ordoñez Ricaldi      | U202216827 |
@@ -27,16 +27,7 @@
 | Brayan Roberto Ccarita Cruz       | U20221C218 |
 | Alison Jimena Arrieta Quispe      | U202312031 |
 | Andreow Jomark Santiago Peña      | U202317362 |
-=======
-| Member                           | Code       |
-|----------------------------------|------------|
-|Axel Randall Ordoñez Ricaldi      | U202216827 |
-|Fabrizio Martin Panta Castro      | U20231A810 |
-|Brayan Roberto Ccarita Cruz       | U20221C218 |
-| Alison Jimena Arrieta Quispe  | U202312031 |
-|Andrew Jomark Santiago Peña| U202317362 |
 
->>>>>>> 6fd66be569026a36fb87759334b4a77348fb1a32
 
 <br> Abril 2025
 </center>  
