@@ -46,9 +46,8 @@
 </center>
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://github.com/SoftCore-1ASI0729-2510-4350/Report)
+[URL del repositorio] https://github.com/SoftCore-1ASI0729-2510-4350/Report
 
-(Imagenes de los commits cada entrega)
 
 
 # Contenido
