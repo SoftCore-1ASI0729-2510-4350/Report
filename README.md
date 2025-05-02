@@ -594,10 +594,28 @@ Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas
 ### 4.8.1. Database Diagram.
 Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
 # Capítulo V: Product Implementation, Validation & Deployment
+En este último capítulo, nos centraremos en la implementación, validación y despliegue de nuestro proyecto. Al igual que explicar los puntos y pasos necesarios que hemos tomado para lograr su realización.
 ## 5.1. Software Configuration Management.
+Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o reglas para mantener consistencia en todo momento:
+|Contexto|Convención|
+|-|-|
+|Nombre de archivos|Todos los archivos tendrán nombres en minúscula, sin espacios, usando kebab-case.|
+|Convenciones de nomenclatura| Variables y funciones: lowerCamelCase; clases y componentes: PascalCase; constantes: UPPER_SNAKE_CASE; archivos: kebab-case.|
+|Estructura del código|Usar estructura modular siguiendo el patrón feature/module, con carpetas como components/, assets/, pages/, services/, etc. Separar por responsabilidades.|
+|Estilo de codificación|Seguir las reglas de ESLint y Prettier: Sangría de 2 espacios; comillas simples; punto y coma obligatorio; y orden alfabético en CSS.|
+|Documentación|Comentar solo en funciones complejas o integraciones externas. Usar formato descripción y mantener el README.md claro y actualizado.|
+|Control de versiones|GitHub Flow: ramas por feature, uso de Pull Requests, revisiones antes de merge. Formato de commits: feat, fix, chore, etc.|
+|Gestión de dependencias|	Usar npm. Mantener package.json ordenado y actualizado. Preferir dependencias estables y con comunidad activa. Ejecutar npm audit regularmente.|
+|Convenciones de prueba|Tests en archivos .spec.js si aplica. Enfoque en pruebas visuales/manuales en componentes clave como BookingForm, RoomCard, ServiceRequest.|
+|Convenciones de seguridad|Validación de entradas en frontend. Autenticación vía tokens (JWT). No incluir secretos en el código. Usar sanitización para evitar XSS.|
+|Convenciones de colaboración| Comunicación por Discord o Teams. Gestión en Trello o GitHub Projects. Documentar avances, pedir feedback constante y promover buenas prácticas. |
 ### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+|Producto|Descripción|Próposito de Uso
+|-|-|-|
+|Rider (JetBrains)|Entorno de desarrollo especializado en .NET, ideal para construir aplicaciones robustas de escritorio, móviles y servicios web.|Se emplea para el desarrollo de WebServices en C# y tecnología .NET, aprovechando su rendimiento, seguridad y compatibilidad multiplataforma.|
+|MySQL|Sistema de gestión de bases de datos relacional, de código abierto y ampliamente soportado.|Brinda una base de datos confiable para manejar reservas, huéspedes, dispositivos y servicios del hotel, con capacidad de gestión local o en la nube.|
+|Postman	|Plataforma de colaboración para pruebas de APIs REST. Permite simular, probar y documentar endpoints rápidamente.|Ideal para probar servicios de la web como reservas, preferencias de usuario, solicitudes de habitación y más.|
+|Git|Sistema de control de versiones distribuido, esencial para llevar un historial organizado del desarrollo del software.|Administra cambios en el código, facilita el trabajo colaborativo y permite restaurar versiones anteriores si se requiere.|
 ### 5.1.2. Source Code Management.
 El gitjab donde tengamos el proyecto
 ### 5.1.3. Source Code Style Guide & Conventions.
