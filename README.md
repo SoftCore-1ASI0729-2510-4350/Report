@@ -608,77 +608,99 @@ Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.1.2. Sprint Backlog n.
-![SprintBacklog n](/Assets/img/Chapter%205/sprint-backlog.jpg) 
-#### 5.2.1.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
+
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 15/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 17:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Softcore team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo Softcore.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 0 Review Summary</td>
+            <td> Debido a que es el primer sprint que se ha hecho, no existen sprints pasados a este.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+        Durante este sprint, se creó el landing page empleando HTML, CSS y JavaScript. También se abordaron las conversaciones sobre el contenido textual que se integró en el landing page, así como el diseño previamente establecido en Figma. Al finalizar este sprint, el landing page se subió a GitHub Pages , permitiendo que cualquier usuario pueda acceder y visualizar la página a través del enlace proporcionado. Además, se realizaron pruebas exhaustivas para asegurar que el sitio esté completamente funcional y se vea correctamente en cualquier dispositivo, garantizando una experiencia óptima tanto en computadoras de escritorio como en tablets y teléfonos móviles.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 1 Velocity</td>
+            <td> 14
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 14
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.1.2 Aspect Leaders and Colaborators
+|Team Member|GitHub Username|| 
+|-|-|-|
+|Arrieta Quispe, Alison Jimena|||
+|Ccarita Cruz, Roberto Brayan|||
+|Ordoñez Ricaldi, Axel Randall|||
+|Panta Castro, Fabrizio Martin|||
+|Santiago Peña, Andreow Jomark|||
+
+#### 5.2.1.3. Sprint Backlog 1.
+
+![SprintBacklog n](/Assets/img/Chapter-5/sprint-backlog.jpg)
+
+#### 5.2.1.4. Development Evidence for Sprint Review.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
+Sprint 1: En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager. El link de la Landing Page es el siguiente: https://softcore-app-web-1asi0730-2510-4395.github.io/CustomHost/.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
+En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embargo, al ser Landing Page no requiere de documentación relacionada a Web Services
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
+En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+- Github pages: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
-
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
-
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
-# Conclusiones
-{texto}
+![Sprint review Team Collaboration Insights](/Assets/img/Chapter-5/contributors.jpg)
 # Conclusiones y recomendaciones.
 {texto}
-# Video About-the-Team.
-[URL del video about the team](https://www.example.com)
 
 # Bibliografía
 
