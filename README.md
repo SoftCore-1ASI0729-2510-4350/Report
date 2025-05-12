@@ -285,6 +285,36 @@ Este segmento incluye a las empresas que desarrollan, fabrican y distribuyen dis
 - **Intereses:** Expandir su mercado, integrar sus productos en nuevos entornos (como hoteles), obtener datos sobre el rendimiento de sus dispositivos en un contexto de uso real y establecer alianzas estratégicas.
 
 **Problema:** Estos proveedores buscan canales efectivos para introducir sus tecnologías en el sector hotelero y necesitan plataformas que faciliten la integración y el monitoreo de sus dispositivos en las instalaciones de sus clientes.
+
+
+## Segmento 4: Propietarios de Hoteles e Inversionistas
+
+### Características Demográficas:
+
+- **Perfil:** Propietarios de hoteles independientes, emprendedores en el sector hotelero o representantes de cadenas hoteleras y grupos de inversión.
+
+- **Alcance Geográfico:** Principalmente ubicados en Lima o gestionando propiedades en Lima, con interés potencial en expandir soluciones a otras ubicaciones.
+
+- **Estatus Económico:** Medio a alto, con la capacidad financiera para invertir en soluciones innovadoras que prometen rendimientos a largo plazo.
+
+- **Rol en la Toma de Decisiones:** Responsables de decisiones estratégicas, incluyendo la adopción de tecnología, asignación de presupuestos y asociaciones con proveedores de SaaS.
+
+### Necesidades e Intereses:
+
+- **Crecimiento del Negocio:** Aumentar las tasas de ocupación, la satisfacción de los huéspedes y los ingresos a través de una mejor experiencia para los huéspedes y eficiencia operativa.
+
+- **Ventaja Competitiva:** Diferenciar sus hoteles en un mercado competitivo ofreciendo tecnología de vanguardia, como la domótica.
+
+- **Escalabilidad:** Implementar una solución SaaS flexible y escalable que pueda integrarse en múltiples propiedades o adaptarse al crecimiento del negocio.
+
+
+**Problema:** Los propietarios de hoteles enfrentan desafíos para mantener la rentabilidad y la satisfacción de los huéspedes en un mercado competitivo. Los sistemas tradicionales de gestión hotelera a menudo carecen de integración con la domótica moderna, lo que dificulta ofrecer experiencias personalizadas a los huéspedes u optimizar el uso de recursos. Además, luchan por encontrar soluciones rentables y escalables que ofrezcan información en tiempo real e integración sin problemas con la infraestructura existente.
+
+
+
+
+
+
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
