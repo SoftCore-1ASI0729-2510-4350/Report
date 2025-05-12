@@ -738,6 +738,11 @@ formato
 "Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
         "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
 
+MINCETUR. (2024). Arribos, pernoctaciones y oferta hotelera en establecimientos de hospedaje. https://datosturismo.mincetur.gob.pe/appdatosturismo/content3.html
+
+Cántaro Márquez, A. L., Miranda Vásquez, G. F., & Ángeles Barrantes, D. (2023). Análisis de las eco-innovaciones en establecimientos de hospedaje peruanos. Sustainability, 15(8), 6700. https://doi.org/10.3390/su15086700
+
+
 ```
 # Anexos
 
