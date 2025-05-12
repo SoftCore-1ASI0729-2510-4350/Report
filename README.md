@@ -716,7 +716,8 @@ En este sprint, se completó el desarrollo del landing page y se utilizó un con
 - Github pages: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](/Assets/img/Chapter-5/contributors.jpg)
+![Sprint review Team Collaboration Insights_1](/Assets/img/Chapter%205/Contributions_1.png)
+![Sprint review Team Collaboration Insights_2](/Assets/img/Chapter%205/Contributions_2.png)
 # Conclusiones y recomendaciones.
 {texto}
 
