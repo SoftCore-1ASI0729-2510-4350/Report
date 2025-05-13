@@ -814,7 +814,9 @@ Aquí se presenta el backlog desarrollado a partir del Sprint 2.
 
 
 # Conclusiones y recomendaciones.
-{texto}
+
+- El desarrollo de este proyecto en Angular 19.02 nos permitió fortalecer nuestras habilidades en programación y profundizar en conceptos clave de arquitectura de software. La experiencia adquirida abarcó tanto el diseño estructurado de componentes como la implementación de buenas prácticas en desarrollo frontend.
+- La aplicación desarrollada ofrece una solución eficiente para el proceso de reserva hotelera, integrando dispositivos IoT de forma avanzada. Gracias al uso de Angular 19.02 y al ecosistema de Angular Material, se construyó una interfaz intuitiva, dinámica y responsiva, capaz de adaptarse a distintos tipos de usuarios y dispositivos, mejorando así la experiencia de usuario.
 
 # Bibliografía
 
