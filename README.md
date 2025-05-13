@@ -1295,13 +1295,13 @@ Configuraciones de donde y como deployeamos el proyecto
 </table>
 
 #### 5.2.1.2 Aspect Leaders and Colaborators
-|Team Member|GitHub Username|| 
+|Team Member|GitHub Username|UX-UI<br>Leader(L)/Collaborator(C)| 
 |-|-|-|
-|Arrieta Quispe, Alison Jimena|||
-|Ccarita Cruz, Roberto Brayan|||
-|Ordoñez Ricaldi, Axel Randall|||
-|Panta Castro, Fabrizio Martin|||
-|Santiago Peña, Andreow Jomark|||
+|Arrieta Quispe, Alison Jimena|alisoft08|C|L|C|
+|Ccarita Cruz, Roberto Brayan|hallzyx|C|C|L|
+|Ordoñez Ricaldi, Axel Randall|nOOmzzzz|C|C|C|
+|Panta Castro, Fabrizio Martin|F4brizio24|C|C|C|
+|Santiago Peña, Andreow Jomark|andrew65411|L|C|C|
 
 #### 5.2.1.3. Sprint Backlog 1.
 
@@ -1322,28 +1322,116 @@ En este sprint, se completó el desarrollo del landing page y se utilizó un con
 - Github pages: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights_1](/Assets/img/Chapter%205/Contributions_1.png)
-![Sprint review Team Collaboration Insights_2](/Assets/img/Chapter%205/Contributions_2.png)
+![Sprint review Team Collaboration Insights](/Assets/img/Chapter%205/Contributions_1.png)
+![Sprint review Team Collaboration Insights](/Assets/img/Chapter%205/Contributions_2.png)
+
+### 5.2.2. Sprint 2
+
+En este sprint como equipo nos hemos enfocado en el desarrollo frontend de la aplicación.
+
+#### 5.2.2.1.Sprint Planning 2.
+
+A continuación se presenta los detalles de la planificación del segundo sprint.
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 07/05/2025 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Lima, Reunion virtual por Discord
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Mauricio Abraham Rivo Rojas Sánchez
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Roberto Brayan Ccarita Cruz <br> Andreow Jomark Santiago Peña <br> Alison Jimena Arrieta Quispe <br> Fabrizio Martin Panta Castro <br> Axel Randall Ordoñez Ricaldi
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Sprint 1: En el anterior sprint hemos diseñado un langing page con seccion hero, beneficios, introduccion, valores y contacto. Hemos cumplido con todas las historias de usuario formuladas.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+                Sprint 1: En el anterior sprint hemos diseñado una landing page, tuvimos algunos problemas al incio pero luego supimos manejar y ordenar todo por branches y lograr llegar a un buen resultado con uso de html, css y js.  
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+<td> Desarrollar y completar el frontend de la aplicación, asegurando una interfaz de usuario intuitiva y funcional que cumpla con los requisitos y especificaciones establecidas.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 2 Velocity</td>
+            <td> 15
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 23
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+|Team Member|GitHub Username|Performance<br>Leader(L)/Collaborator(C)|UX-UI<br>Leader(L)/Collaborator(C)|Funcionalidad<br>Leader(L)/Collaborator(C)| 
+|-|-|-|-|-|
+|Arrieta Quispe, Alison Jimena|alisoft08|C|L|C|
+|Ccarita Cruz, Roberto Brayan|hallzyx|C|C|L|
+|Ordoñez Ricaldi, Axel Randall|nOOmzzzz|C|C|C|
+|Panta Castro, Fabrizio Martin|F4brizio24|C|C|C|
+|Santiago Peña, Andreow Jomark|andrew65411|L|C|C|
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+Aquí se presenta el backlog desarrollado a partir del Sprint 2.
+
+![SprintBacklog-2](/Assets/img/Chapter%205/Captura%20de%20pantalla%202025-05-13%20074220.png)
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+
+
 # Conclusiones y recomendaciones.
-{texto}
+
+- El desarrollo de este proyecto en Angular 19.02 nos permitió fortalecer nuestras habilidades en programación y profundizar en conceptos clave de arquitectura de software. La experiencia adquirida abarcó tanto el diseño estructurado de componentes como la implementación de buenas prácticas en desarrollo frontend.
+- La aplicación desarrollada ofrece una solución eficiente para el proceso de reserva hotelera, integrando dispositivos IoT de forma avanzada. Gracias al uso de Angular 19.02 y al ecosistema de Angular Material, se construyó una interfaz intuitiva, dinámica y responsiva, capaz de adaptarse a distintos tipos de usuarios y dispositivos, mejorando así la experiencia de usuario.
 
 # Bibliografía
 
-MINCETUR. (2024). Arribos, pernoctaciones y oferta hotelera en establecimientos de hospedaje [LINK](https://datosturismo.mincetur.gob.pe/appdatosturismo/content3.html) Recuperado el 6 de enero del 2025
-
-Cántaro Márquez, A. L., Miranda Vásquez, G. F., & Ángeles Barrantes, D. (2023). Analysis of eco-innovations in Peruvian accommodation establishments. Sustainability, 15(8), 6700. [LINK](https://doi.org/10.3390/su15086700)
-
-qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
-Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
-
-LeaseIN. (2018). Importancia de contar con un equipo de soporte
-técnico. [Entrada en blog]. Recuperado de:
-[LINK](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
 ``` 
-formato
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+MINCETUR. (2024). Arribos, pernoctaciones y oferta hotelera en establecimientos de hospedaje. https://datosturismo.mincetur.gob.pe/appdatosturismo/content3.html
+
+Cántaro Márquez, A. L., Miranda Vásquez, G. F., & Ángeles Barrantes, D. (2023). Análisis de las eco-innovaciones en establecimientos de hospedaje peruanos. Sustainability, 15(8), 6700. https://doi.org/10.3390/su15086700
+
 
 ```
 # Anexos
