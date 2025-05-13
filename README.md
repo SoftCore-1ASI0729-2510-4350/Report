@@ -806,6 +806,16 @@ Aquí se presenta el backlog desarrollado a partir del Sprint 2.
 ![SprintBacklog-2](/Assets/img/Chapter%205/Captura%20de%20pantalla%202025-05-13%20074220.png)
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
+Esta sección registra las evidencias del desarrollo del Sprint.
+
+| Repository     | Branch                    | Commit Message                          | Committed on (Date) |
+|----------------|----------------------------|------------------------------------------|---------------------|
+| customhost     | develop                    | Merge pull request #5 from feature/home-page | 13/05/2024          |
+| customhost     | feature/basic-routing      | feat: added Angular basic routing module | 10/05/2024          |
+| customhost     | feature/i18n               | feat: integrated ngx-translate and language switcher | 11/05/2024          |
+| customhost     | feature/json               | feat: added assets json for dynamic data | 11/05/2024          |
+| customhost     | feature/guest-experience   | feat: created guest experience component | 12/05/2024          |
+| customhost     | feature/home-page          | feat: designed and structured homepage layout | 13/05/2024          |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 Sprint 2: En este entregable, hemos logrado desarrollar el Frontend de la aplicación para nuestra StartUp Sweet Manager. El link de la aplicación es el siguiente: https://customhostopen.netlify.app/
