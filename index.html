@@ -35,17 +35,29 @@
         <img src="Assets/img/Index/LightLogo.png" alt="CustomHost Logo" />
       </div>
   
-      <nav class="nav-links">
-        <a href="#">Home ▾</a>
-        <a href="#">SmartStay</a>
-        <a href="#">About Us</a>
-        <a href="#">Contact Us</a>
-      </nav>
-  
-      <div class="nav-actions">
-        <button class="btn-login">Log In</button>
-        <button class="btn-signup">Sign Up</button>
+      <div class="nav-menu">
+        <nav class="nav-links">
+          <a href="#Home">Home ▾</a>
+          <a href="#smartstay">Nuestros Servicios</a>
+
+          <a href="#about">About Us</a>
+          <a href="#habitaciones">Nuestras Habitaciones</a>
+        </nav>
+      
+        <div class="nav-actions">
+          <button class="btn-login">Log In</button>
+          <button class="btn-signup">Sign Up</button>
+        </div>
       </div>
+      
+
+      <!-- Botón Hamburguesa -->
+      <div class="hamburger" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
     </div>
   </header>
   
@@ -60,8 +72,8 @@
     <p>Imagina llegar y que todo esté listo tal como te gusta: la temperatura perfecta, tu espacio ideal, el confort que mereces. En CustomHost, la tecnología se anticipa a ti para que tú solo te preocupes por disfrutar.</p>
   </section>
 
-  <section class="smartstay">
-    <h2>SMARTSTAY EXPERIENCE</h2>
+  <section class="smartstay" id="smartstay">
+    <h2>Nuestros Servicios</h2>
     <p>El confort del futuro, hoy</p>
   </section>
 
@@ -70,18 +82,18 @@
       
       <img src="Assets/img/Index/Feature-two.jpg" alt="Tazas y agua" class="feature-img">
       <div class="feature-text">
-        <h3>DILE SÍ A LA PERSONALIZACIÓN AUTOMÁTICA</h3>
+        <h3>PERSONALIZACIÓN AUTOMÁTICA</h3>
         <p>Ambiente ideal desde tu llegada: aire, agua y confort adaptados a tu perfil.</p>
         <button class="btn-primary">VER MÁS</button>
         
       </div>
-      <button class="btn-secondary"><span class="material-symbols-outlined">arrow_forward</span></button>
+      
     </div>
 
     <div class="feature feature-left">
-      <button class="btn-secondary"><span class="material-symbols-outlined">arrow_back</span></button>
+      
       <div class="feature-text">
-        <h3>DILE SÍ AL ACCESO RÁPIDO Y SEGURO</h3>
+        <h3>ACCESO RÁPIDO Y SEGURO</h3>
         <p>Tu tarjeta te da acceso exclusivo y seguro a tu habitación y servicios.</p>
         <button class="btn-primary">VER MÁS</button>
         
@@ -90,7 +102,7 @@
     </div>
   </section>
 
-  <section class="about">
+  <section class="about" id="about">
     <h2>ABOUT US</h2>
     <div class="about-content">
       <img src="Assets/img/Index/StartUp.jpg" alt="Equipo SoftCore" class="about-img">
@@ -101,16 +113,33 @@
       </p>
     </div>
   </section>
-  <section class="contact">
-    <h2>CONTACT US</h2>
-    <div class="contact-form">
-      <h3>SEND MESSAGE</h3>
-      <form>
-        <input type="text" placeholder="Name" required>
-        <input type="email" placeholder="Email" required>
-        <textarea rows="5" placeholder="Message" required></textarea>
-        <button type="submit" class="btn-secondary">Send</button>
-      </form>
+  
+  <section class="habitaciones" id="habitaciones">
+    <h2>Nuestras habitaciones</h2>
+    <div class="contenido">
+      <div class="habitaciones-lista">
+        <div class="habitacion">
+          <h3>Habitacion matrimonial</h3>
+          <p>8,4 - Excelente (430) <span>📍 Región</span></p>
+          <p class="detalle">No se que poner aquí</p>
+        </div>
+        <div class="habitacion">
+          <h3>Habitacion matrimonial</h3>
+          <p>8,4 - Excelente (430) <span>📍 Región</span></p>
+          <p class="detalle">No se que poner aquí</p>
+        </div>
+        <div class="habitacion">
+          <h3>Habitacion matrimonial</h3>
+          <p>8,4 - Excelente (430) <span>📍 Región</span></p>
+          <p class="detalle">No se que poner aquí</p>
+        </div>
+      </div>
+      <div class="imagen-habitacion">
+        <img src="Assets/img/Index/OurRooms.jpg" alt="Habitación matrimonial" />
+      </div>
+    </div>
+    <div class="boton-container">
+      <button class="boton-personaliza">✨ PERSONALIZA TU EXPERIENCIA AHORA</button>
     </div>
   </section>
   
@@ -124,7 +153,7 @@
       <h4>SECTIONS</h4>
       <ul>
         <li>Home</li>
-        <li>SmartStay</li>
+        <li>Servicios</li>
         <li>About Us</li>
         <li>Contact Us</li>
       </ul>
@@ -146,9 +175,21 @@
         <li>Instagram</li>
         <li>YouTube</li>
       </ul>
+
     </div>
     <div class="footer-bottom">© Todos los derechos reservados a SoftCore</div>
   </footer>
-
+  <script>
+    window.addEventListener('scroll', function () {
+      const navbar = document.querySelector('.navbar');
+      if (window.scrollY > 10) {
+        navbar.classList.add('scrolled');
+      } else {
+        navbar.classList.remove('scrolled');
+      }
+    });
+  </script>
+  
+  
 </body>
 </html>

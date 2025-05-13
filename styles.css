@@ -6,7 +6,7 @@ body {
   }
   
   .navbar {
-    position: absolute;
+    position: fixed;
     width: 100%;
     top: 0;
     left: 0;
@@ -14,13 +14,19 @@ body {
     color: #eceff1;
     font-family: 'Inter', sans-serif;
   }
+
+  .navbar.scrolled {
+    background-color: #263238;
+    transition: background-color 0.1s ease-in-out;
+  }
+  
   
   /* Top Bar */
   .top-bar {
     margin-top: 1rem;
     padding: 0.3rem 2rem;
     display: flex;
-    justify-content: flex-end; 
+    justify-content: flex-end;
     align-items: center;
   }
   
@@ -97,7 +103,7 @@ body {
   
   
   .hero {
-    height: 60rem;
+    height: 50rem;
     background-image: url('Assets/img/Index/Hero.jpg');
     background-size: cover;
     background-position: center;
@@ -364,4 +370,219 @@ display: inline-flex;
     margin-top: 2rem;
   }
   
+
   
+.habitaciones {
+  max-width: 960px;
+  margin: 0 auto;
+  background-color: #dfe8ed;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.habitaciones h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.contenido {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+
+.habitaciones-lista {
+  flex: 1;
+}
+
+.habitacion {
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 10px 0;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.habitacion h3 {
+  margin: 0;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.habitacion p {
+  margin: 4px 0;
+  font-size: 14px;
+}
+
+.habitacion .detalle {
+  color: #444;
+  font-size: 13px;
+}
+
+.imagen-habitacion img {
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.boton-container {
+  margin-top: 20px;
+}
+
+.boton-personaliza {
+  background-color: #ff9800;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  font-size: 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.boton-personaliza:hover {
+  background-color: #e68900;
+}
+  
+/* Responsive Hero Section */
+@media (max-width: 768px) {
+  .hero {
+    height: 30rem; /* Más bajo en móviles */
+    background-position: center;
+  }
+
+  .welcome h2 {
+    font-size: 2rem;
+  }
+
+  .smartstay h2 {
+    font-size: 1.5rem;
+  }
+
+  .welcome p,
+  .smartstay p {
+    font-size: 0.9rem;
+    padding: 0 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    height: 25rem;
+  }
+
+  .welcome h2,
+  .smartstay h2 {
+    font-size: 1.4rem;
+  }
+
+  .welcome p,
+  .smartstay p {
+    font-size: 0.85rem;
+    padding: 0 0.5rem;
+  }
+}
+
+/* Estilos hamburguesa */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 25px;
+  height: 18px;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.hamburger span {
+  background: #eceff1;
+  height: 3px;
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+
+/* Responsive navbar */
+@media (max-width: 768px) {
+  .nav-main {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .nav-menu {
+    width: 100%;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(44, 62, 80, 0.95);
+    padding: 1rem 0;
+    margin-top: 1rem;
+  }
+
+  .nav-menu.show {
+    display: flex;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .nav-actions {
+    margin: 1rem 0 0;
+    gap: 1rem;
+    flex-direction: column;
+    margin-right: 0;
+  }
+
+  .hamburger {
+    display: flex;
+  }
+
+  .logo img {
+    margin-left: 0;
+  }
+
+  .top-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+  }
+
+  .nav-contact {
+    gap: 1rem;
+  }
+}
+
+/* DESKTOP: Restaurar estilos para pantallas grandes */
+@media (min-width: 769px) {
+  .nav-menu {
+    display: flex !important;
+    flex-direction: row;
+    align-items: center;
+    gap: 4rem;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+  }
+
+  .nav-links {
+    display: flex !important;
+    flex-direction: row;
+    gap: 4rem;
+  }
+
+  .nav-actions {
+    flex-direction: row;
+    gap: 1rem;
+    margin: 0;
+  }
+
+  .hamburger {
+    display: none;
+  }
+}
+
+
+
