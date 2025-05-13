@@ -934,18 +934,16 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-![Software Architecture Context Diagram](/Assets/img/Chapter%204/structurizr-101614-SystemContext-001-fixed.png)
+![Software Architecture Context Diagram](/Assets/img/Chapter%204/Container_2.jpg)
    
 ### 4.6.2. Software Architecture Container Diagrams.
-![Container Diagram](/Assets/img/Chapter%204/structurizr-101614-Container-001.png)
+![Container Diagram](/Assets/img/Chapter%204/Container_1.jpg)
 
 ### 4.6.3. Software Architecture Components Diagrams.
-![Guest Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-001.png)
-![Admin Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-004.png)
-![Support Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-006.png)
-![Reservation Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-002.png)
-![Content and Marketing Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-003.png)
-![Security Components Diagram](/Assets/img/Chapter%204/structurizr-101614-Component-005.png)
+![Guest Components Diagram](/Assets/img/Chapter%204/Component_1.jpg)
+![Admin Components Diagram](/Assets/img/Chapter%204/Component_2.jpg)
+![Support Components Diagram](/Assets/img/Chapter%204/Component_3.jpg)
+![Reservation Components Diagram](/Assets/img/Chapter%204/Component_4.jpg)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
