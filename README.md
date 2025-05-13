@@ -19,14 +19,14 @@
 ### <center>Team  Members:</center>
 <center>
 
-| Member                           | Code       |
-|----------------------------------|------------|
-|Axel Randall Ordoñez Ricaldi      | U202216827 |
-|Fabrizio Martin Panta Castro      | U20231A810 |
-|Brayan Roberto Ccarita Cruz       | U20221C218 |
-| Alison Jimena Arrieta Quispe  | U202312031 |
-|              |  |
-|          |  |
+| Member                       | Code       |
+|------------------------------|------------|
+| Axel Randall Ordoñez Ricaldi | U202216827 |
+| Fabrizio Martin Panta Castro | U20231A810 |
+| Brayan Roberto Ccarita Cruz  | U20221C218 |
+| Alison Jimena Arrieta Quispe | U202312031 |
+| Andreow Jomark Santiago Peña | U202317362 |
+
 
 <br> Abril 2025
 </center>  
@@ -34,16 +34,27 @@
 # Registro de Versiones del Informe
 <center>
 
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 07/04/2025 |SoftCore |Se crea el documento |  
+| Version | Fecha       | Autores          | Descripcion de Modificacion                                                                                             |
+|--------|-------------|------------------|-------------------------------------------------------------------------------------------------------------------------|
+| 0.0    | 24/03/2025  | Alison Arrieta   | Crea el documento                                                                                                       |  
+| 0.4    | 10/04/2025  | Adnreow Santiago | Se aplican mejoras a las secciones del chapter 1 y 2 siendo especificamente Journey Mapping, Entrevistas y Competidores 
+| 0.6    | 12/04/2025  | Fabrizio Panta   | Se revisa los Mockups                                                                                                   |  
+| 0.8    | 18/04/2025  | Axel Ordoñez     | Se realiza cambios a los userflows y diagrama de clses                                                                  |
+| 1.1    | 24/04/2025  | Roberto Ccarita  | Se realiza correciones vistas en clases                                                                                 |
+
+
 
 </center>
 
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/SoftCore-1ASI0729-2510-4350/Report)
 
-(Imagenes de los commits cada entrega)
+TP1
+Para la entrega del TP1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo dejando la posibilidad de realizar correcciones entre los mismos integrantes.
+
+Se muestran evidencias de los commits realizados en la entrega de la TP1:
+
+
 
 
 # Contenido
@@ -169,10 +180,15 @@
 [Anexos](#anexos)  
 
 # Student Outcome
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|<p>Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc..</p>|Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+| Criterio Especifico                                                    | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                   |Conclusiones|
+|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | <p>Compañero Axel Ordoñez:<br> *TB1:*  Participó activamente en reuniones grupales y sesiones de trabajo donde explicó claramente conceptos técnicos relacionados con Lean UX Process, análisis de competidores, To-Be Scenario Mapping y diagramas de arquitectura del software. Su comunicación fue adaptada al nivel técnico de sus compañeros y docente, facilitando una comprensión general del proyecto. *TP1:*Durante las revisiones del Sprint 2, Axel comunicó avances del frontend web application y mejoras realizadas al landing page. Además, explicó diagramas de contenedores, contexto y base de datos durante las sesiones de revisión con el docente, mostrando claridad y dominio del contenido.<p>Compañero Fabrizio Panta:<br> *TB1:*Intervino durante las reuniones de equipo comunicando avances sobre entrevistas realizadas, user task matrix, empathy map, product backlog e impact map. También participó en presentaciones formales frente al docente, mostrando claridad y dominio del contenido relacionado con el diseño UX/UI.*TP1:*En TP1, Fabrizio presentó evidencia de desarrollo, ejecución y documentación de servicios del frontend. Expuso claramente los wireframes, mockups y user flow desarrollados durante las revisiones del Sprint 2, adaptándose tanto a audiencias técnicas como generales.<p>Compañero Roberto Ccarita:<br> *TB1:*Contribuyó en discusiones grupales con respecto a User Personas, Empathy Map y análisis competitivo. Comunicó de forma clara las necesidades detectadas en la investigación hotelera, ayudando a guiar las decisiones del equipo.*TP1:*En TP1, Brayan explicó cómo se integraron las mejoras basadas en feedback del TB1 y expuso detalles sobre la implementación de componentes frontend asignados. Enfatizó en cómo estos elementos respondían a las necesidades del sector hotelero.<p>Compañero Alison Arrieta:<br> *TB1:*Durante reuniones y presentaciones, expuso ideas clave sobre el desarrollo de la landing page, entrevistas y análisis de competidores. Su lenguaje fue accesible y orientado a facilitar la comprensión tanto del equipo como del docente.*TP1:*En TP1, Alison presentó avances en la Landing Page desplegada y explicó cómo se integraban las correcciones recibidas. Colaboró en la comunicación visual del proyecto mediante presentaciones claras y dinámicas durante las revisiones del Sprint 2.<p>Compañero Andreow Santiago:<br> *TB1:*Explicó conceptos relacionados con Needfinding, Ubiquitous Language y diseño UX/UI durante reuniones grupales y frente al docente. Su discurso fue claro y estructurado, facilitando la comprensión por parte de todos los involucrados.*TP1:*En TP1, Andreow detalló cómo se implementaron las user stories en el frontend y explicó las funcionalidades desarrolladas durante las revisiones del Sprint 2, destacando su relevancia para resolver las necesidades identificadas en el rubro hotelero.|Durante los entregables TB1 y TP1, todos los integrantes del equipo demostraron una comunicación oral efectiva al exponer conceptos técnicos, avances del proyecto y correcciones realizadas. Cada estudiante adaptó su discurso según la audiencia, ya sea compañeros o docentes, logrando transmitir claramente las ideas y facilitando una mejor comprensión del proyecto. Las habilidades mostradas durante reuniones grupales, sesiones de revisión y presentaciones formales fueron clave para mantener una dinámica colaborativa y profesional dentro del equipo.|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | Compañero Axel Ordoñez:<br> *TB1:*  Participó en la redacción de secciones del informe como Lean UX Process, análisis de competidores, To-Be Scenario Mapping, diagramas de contenedores, contexto y base de datos. Sus escritos mostraron claridad, estructura y un lenguaje técnico pero accesible dirigido tanto al equipo como al docente.<br> *TP1:*En la entrega del TP1, Axel trabajó en la versión corregida y mejorada de artefactos previos, incluyendo documentación técnica del frontend web application, evidencia de desarrollo y despliegue del landing page.Compañero Fabrizio Panta:<br> *TB1:*Colaboró en la redacción de entrevistas, empathy map, user task matrix, product backlog, impact map, style guidelines, wireframes, mockups y user flow. Sus textos fueron bien estructurados y adaptados a distintos niveles de lectores.*TP1:*Presentó evidencia escrita del desarrollo del frontend, incluyendo documentación de servicios, diseño visual (wireframes y mockups) y ejecución funcional del sistema, cumpliendo con los requisitos del Sprint 2.Compañero Roberto Ccarita:<br> *TB1:*Redactó partes relacionadas con User Personas, Empathy Map e investigación competitiva del sector hotelero. Su enfoque fue orientado a describir claramente las necesidades detectadas y cómo el proyecto podía resolverlas.*TP1:*Contribuyó en la documentación del frontend, describiendo funciones desarrolladas, integración de componentes y cómo respondían a las necesidades del rubro hotelero.Compañero Alison Arrieta:<br> *TB1:*Trabajó en la redacción de informes sobre entrevistas, análisis competitivo y diseño de la landing page. Sus escritos fueron claros, formales y orientados a múltiples niveles de lectores.*TP1:*Realizó la versión actualizada del landing page, incluyendo documentación del proceso de mejora, evidencia del despliegue y explicación del diseño desde una perspectiva de experiencia de usuario.Compañero Andreow Santiago:<br> *TB1:*Redactó documentos sobre Needfinding, Ubiquitous Language y diseño UX/UI. Se preocupó por mantener un lenguaje preciso y formatos adecuados, dirigidos tanto al equipo como al docente.*TP1:*Desarrolló y documentó las user stories implementadas en el frontend, describió las funcionalidades desarrolladas y su relación con las necesidades identificadas, siguiendo estándares claros y técnicos.|Durante los entregables TB1 y TP1, todos los integrantes del equipo demostraron una comunicación escrita clara, precisa y bien estructurada. Cada estudiante redactó artefactos técnicos y documentos del proyecto utilizando un lenguaje adaptado a distintas audiencias, ya sean compañeros, docentes o posibles usuarios del producto. En TP1, reforzaron esta habilidad al entregar versiones mejoradas de los documentos, incluir evidencia de desarrollo, diseño y despliegue del sistema, y mantener coherencia y calidad textual en todas las entregas. Su preocupación por la claridad, formato y comprensión general fue fundamental para garantizar la calidad de los informes y facilitar la evaluación del trabajo realizado.|
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                             |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
