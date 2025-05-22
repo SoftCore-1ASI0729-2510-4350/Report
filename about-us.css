@@ -168,6 +168,8 @@
   background: #e4ebf1;
   gap: 2rem;
   flex-wrap: wrap;
+  padding-left: 15rem;
+  padding-bottom: 10rem;
   
 }
 
@@ -227,10 +229,12 @@
   font-size: 0.95rem;
 }
 
-.icon-item img {
-  width: 40px;
-  height: 40px;
-  margin-bottom: 0.5rem;
+.service-icons-bar .material-icons {
+  font-size: 70px; /* Puedes ajustar el valor a tu gusto (por ejemplo, 36px, 64px, etc.) */
+}
+
+.service-icons-bar{
+    height: 17rem;
 }
 
 
